@@ -1,4 +1,6 @@
 # Sudoku-Solver
+This is the code for a web bot that can automatically solve a Sudoku Puzzle.
+
 Sudoku Solver for websudoku.com
 
 If NoelementException can be found, or something like that happens, you have slow internet. Increase the time.sleep by a few seconds. 
