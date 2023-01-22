@@ -1,4 +1,4 @@
-# Sudoku-Solver
+# Web bot to solve a sudoku puzzle. 
 This is the code for a web bot that can automatically solve a Sudoku Puzzle.
 
 Sudoku Solver for websudoku.com
